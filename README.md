@@ -1,7 +1,5 @@
 # Reusable-REACT-REACT-NATIVE-components-and-changable-styles
 
-**You can't create Button component and all the other components which are exist in React Native**
-
 **For example I want to create a reusable and changable card component which i can use every where and i can overwrite the styling of that component**
 
 Card.js
